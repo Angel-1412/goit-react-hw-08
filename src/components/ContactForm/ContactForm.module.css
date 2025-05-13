@@ -1,0 +1,28 @@
+.error {
+  color: red;
+  font-size: 12px;
+}
+
+input {
+  padding: 8px;
+  margin: 5px 0;
+  width: 200px;
+}
+
+.form {
+  padding: 10px 15px;
+  margin-bottom: 15px;
+  border: 1px solid #111;
+  border-radius: 12px;
+  width: 260px;
+}
+
+.user,
+.phone {
+  display: flex;
+  flex-direction: column;
+}
+
+.btnAdd {
+  margin-top: 10px;
+}
