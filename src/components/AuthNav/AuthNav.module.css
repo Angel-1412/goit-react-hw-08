@@ -1,0 +1,25 @@
+/* AuthNav.module.css */
+
+.container {
+  display: flex;
+  gap: 70px;
+  margin: 0;
+  padding: 15px 20px;
+  align-items: center;
+}
+
+.link {
+  text-decoration: none;
+  color: #1976d2;
+  font-weight: 500;
+  font-size: 16px;
+  padding: 8px 16px;
+  border-radius: 8px;
+  transition: background-color 0.3s ease, color 0.3s ease;
+  border: 1px solid transparent;
+}
+
+.link:hover {
+  background-color: #e3f2fd;
+  border-color: #90caf9;
+}

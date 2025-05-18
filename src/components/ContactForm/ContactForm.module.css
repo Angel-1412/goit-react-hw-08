@@ -6,7 +6,7 @@
 input {
   padding: 8px;
   margin: 5px 0;
-  width: 200px;
+  width: 240px;
 }
 
 .form {
@@ -23,6 +23,7 @@ input {
   flex-direction: column;
 }
 
-.btnAdd {
-  margin-top: 10px;
+.button {
+  margin-top: 5px;
+  background-color: rgb(55, 132, 234);
 }

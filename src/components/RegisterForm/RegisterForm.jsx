@@ -67,5 +67,4 @@ const RegisterForm = () => {
   );
 };
 
-// Обов'язково додайте default export
 export default RegisterForm;
